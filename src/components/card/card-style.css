@@ -1,0 +1,19 @@
+.item-card {
+  display: flex;
+  flex-direction: column;
+  width: 10rem;
+  height: 200px;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.image-poster {
+  width: 10rem;
+  height: 200px;
+  position: absolute;
+  z-index: -1;
+  border: none;
+  border-radius: 10px;
+}

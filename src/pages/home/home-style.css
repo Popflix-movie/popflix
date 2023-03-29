@@ -1,0 +1,22 @@
+.container-body-home {
+  display: flex;
+  flex-direction: column;
+  row-gap: 25px;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-lancamentos,
+.container-filmes-alta {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.container-filmes-alta h1,
+.container-lancamentos h1 {
+  color: #fff;
+  font-size: 2.1em;
+}

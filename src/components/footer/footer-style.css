@@ -1,0 +1,72 @@
+.container-footer {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  height: 200px;
+  border-top: 1px solid #a8e7ca;
+  border-bottom: 1px solid #a8e7ca;
+  margin-top: calc(10% - 5px);
+  margin-left: calc(10% - 5px);
+  margin-bottom: 20px;
+}
+
+.copyright-popflix {
+  margin-left: 40%;
+  transform: translateX(-50%);
+  padding-bottom: 20px;
+  color: #a8e7ca;
+}
+
+.container-footer-social {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.footer-logo {
+  width: 100px;
+}
+
+.container-social-media {
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-social {
+  cursor: pointer;
+}
+
+.icon-social:hover {
+  opacity: 0.5;
+}
+
+.container-footer-info {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  color: #fff;
+  margin: 50px;
+}
+
+.container-footer-info label {
+  font-weight: 500;
+  font-size: 1em;
+}
+
+.footer-information {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  color: #fff;
+  margin-left: 5px;
+}
+
+.footer-information label {
+  font-size: 0.8em;
+  cursor: pointer;
+}

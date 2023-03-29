@@ -1,0 +1,375 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/nlCHUWjY9XWbuEUQauCBgnY8ymF.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 76341,
+        "original_language": "en",
+        "original_title": "Mad Max: Fury Road",
+        "overview": "Em um mundo apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal, iniciada pela imperatriz Furiosa que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudar Furiosa. Dessa vez, o tirano Joe está ainda mais implacável pois teve algo insubstituível roubado.",
+        "popularity": 76.764,
+        "poster_path": "/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg",
+        "release_date": "2015-05-13",
+        "title": "Mad Max: Estrada da Fúria",
+        "video": false,
+        "vote_average": 7.573,
+        "vote_count": 20377
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oUCq5CC1LPRDd9nDDXgve5gb2tM.jpg",
+        "genre_ids": [
+            16,
+            35
+        ],
+        "id": 904039,
+        "original_language": "en",
+        "original_title": "Madagascar: A Little Wild Holiday Goose Chase",
+        "overview": "É época de férias no habitat e Melman está determinado a adicionar mais um adesivo à sua lista anual de \"Bonzinhos\"!",
+        "popularity": 82.43,
+        "poster_path": "/h6TUQegjmCafQMswFW0SgCM3JeK.jpg",
+        "release_date": "2021-11-26",
+        "title": "Madagascar Pequenos Selvagens: Um Ganso Perdido no Natal",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/msnknPOg9dx86b0YozXOFP8PgBI.jpg",
+        "genre_ids": [
+            10751,
+            16,
+            12,
+            35
+        ],
+        "id": 270946,
+        "original_language": "en",
+        "original_title": "Penguins of Madagascar",
+        "overview": "Vindos da franquia de animação Madagascar, Capitão, Kowalski, Rico e Recruta, a elite do pinguins espiões, são capturados em uma missão que tinha como objetivo presentear o integrante mais novo da tropa (Recruta) em seu aniversário. Eles caem nas garras do temido Dr. Otavius Brine, que se sentiu prejudicado pelo quarteto em um passado remoto. Agora, eles vão ter que impedir o maléfico plano do vilão de se vingar dos pinguins do mundo todo e, para isso, terão que juntar forças com uma especializada agência de espiões, a Vento do Norte, liderada pelo Agente Secreto. Enquanto isso, Recruta tenta provar seu valor como agente especial do time de pinguins.",
+        "popularity": 78.042,
+        "poster_path": "/w9jno0ySammISRGvc0RZREjYUvg.jpg",
+        "release_date": "2014-11-22",
+        "title": "Os Pinguins de Madagascar",
+        "video": false,
+        "vote_average": 6.517,
+        "vote_count": 3664
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8NCftAWfkETwrbf7QwEaDH1xpus.jpg",
+        "genre_ids": [
+            10751,
+            16,
+            12,
+            35
+        ],
+        "id": 953,
+        "original_language": "en",
+        "original_title": "Madagascar",
+        "overview": "O leão Alex é a grande atração do zoológico do Central Park, em Nova York. Ele e seus melhores amigos, a zebra Marty, a girafa Melman e a hipopótamo Gloria, sempre passaram a vida em cativeiro e desconhecem o que é morar na selva. Curioso em saber o que há por trás dos muros do zoo, Marty decide fugir e explorar o mundo. Ao perceberem, Alex, Gloria e Melman decidem partir à sua procura. O trio encontra Marty na estação Grand Central do metrô, mas antes que consigam voltar para casa são atingidos por dardos tranquilizantes e capturados. Embarcados em um navio rumo à África, eles acabam na ilha de Madagascar, onde precisam encontrar meios de sobrevivência em uma selva verdadeira.",
+        "popularity": 84.496,
+        "poster_path": "/A3xzOyFlWxoGFPG4aUGX8zMS4OA.jpg",
+        "release_date": "2005-05-25",
+        "title": "Madagascar",
+        "video": false,
+        "vote_average": 6.884,
+        "vote_count": 9745
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r2M9ElkHxEJP7riCFbT5N0uXZTc.jpg",
+        "genre_ids": [
+            10751,
+            12,
+            16,
+            35
+        ],
+        "id": 10527,
+        "original_language": "en",
+        "original_title": "Madagascar: Escape 2 Africa",
+        "overview": "Alex, Marty, Melman, Gloria, Rei Julien, Maurice, os pinguins e os chimpanzés estão no longínquo litoral de Madagascar. Para deixar o local os pinguins consertam um velho avião de guerra, mas logo em seu 1º voo ele cai. Isto faz com que os animais do zoológico de Nova York tenham que lidar, pela 1ª vez na vida, com espécies semelhantes a eles, só que habituadas à vida selvagem.",
+        "popularity": 62.985,
+        "poster_path": "/u6w0HVvpQTsthsi6pqxO5X72E8K.jpg",
+        "release_date": "2008-10-30",
+        "title": "Madagascar 2: A Grande Escapada",
+        "video": false,
+        "vote_average": 6.474,
+        "vote_count": 6138
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hfdds27YL5nTAhiOtjfNNxD3bJe.jpg",
+        "genre_ids": [
+            16,
+            10751,
+            35,
+            12
+        ],
+        "id": 80321,
+        "original_language": "en",
+        "original_title": "Madagascar 3: Europe's Most Wanted",
+        "overview": "Nossos amigos animais Alex, Marty, Glória e Melman vão para a Europa e passam a ser perseguidos por uma agente de controle de animais. Para despistá-la, eles se juntam a um grupo circense que sonha em se apresentar em Nova York, o lar dos animais.",
+        "popularity": 58.865,
+        "poster_path": "/bPRvFj9MGeLeqidaTniUf8yQ0PW.jpg",
+        "release_date": "2012-06-06",
+        "title": "Madagascar 3: Os Procurados",
+        "video": false,
+        "vote_average": 6.596,
+        "vote_count": 5467
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tXzzKQ1rPKvb2kD4ZkZzDU16eKs.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 881486,
+        "original_language": "te",
+        "original_title": "MAD",
+        "overview": "Have you ever felt lonely in a Relationship..., Marriage or Live_In , doesn't matter, when you can't share your feelings with your companion, it is like travelling to an unknown destination with a troublesome partner.",
+        "popularity": 0.656,
+        "poster_path": "/oPcrjnofEwm61mSXCVH2LAXai2N.jpg",
+        "release_date": "2021-04-23",
+        "title": "MAD",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iKUwhA4DUxMcNKu5lLSbDFwwilk.jpg",
+        "genre_ids": [
+            14,
+            28,
+            12
+        ],
+        "id": 453395,
+        "original_language": "en",
+        "original_title": "Doctor Strange in the Multiverse of Madness",
+        "overview": "Doutor Estranho, com a ajuda de aliados místicos antigos e novos, atravessa as perigosas realidades alternativas e alucinantes do Multiverso para enfrentar um novo adversário misterioso.",
+        "popularity": 346.113,
+        "poster_path": "/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
+        "release_date": "2022-05-04",
+        "title": "Doutor Estranho no Multiverso da Loucura",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 7182
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lVc0lkHZmkXlat3AuAstK49ClBu.jpg",
+        "genre_ids": [
+            12,
+            28,
+            53,
+            878
+        ],
+        "id": 8810,
+        "original_language": "en",
+        "original_title": "Mad Max 2",
+        "overview": "No futuro o bem mais precioso é a gasolina, em virtude de uma guerra que acabou com os campos petrolíferos do Oriente Médio. Tendo combustível pode-se fugir da morte ou se dirigir a algum lugar para matar alguém. Neste contexto, Max resolve ajudar uma comunidade a defender sua refinaria contra uma gangue de motoqueiros.",
+        "popularity": 34.375,
+        "poster_path": "/5inW7xf2kRoZDojXWfXLXK0fZ9z.jpg",
+        "release_date": "1981-12-24",
+        "title": "Mad Max 2: A Caçada Continua",
+        "video": false,
+        "vote_average": 7.388,
+        "vote_count": 3132
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 541668,
+        "original_language": "fr",
+        "original_title": "Mad",
+        "overview": "",
+        "popularity": 0.6,
+        "poster_path": "/ezUD9aVxBR8vEIp2Qi41Jz4hUNd.jpg",
+        "release_date": "2017-06-29",
+        "title": "Mad",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cO8zcdPhLT3UdykkXCvfhIVrgHK.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 9355,
+        "original_language": "en",
+        "original_title": "Mad Max Beyond Thunderdome",
+        "overview": "Em uma era pós-apocalíptica, Mad Max chega a uma cidade cheia de desordeiros e governada por Turner. Lá, ele se torna um gladiador e é abandonado no deserto. Um bando de órfãos selvagens, os quais procuram por ajuda há muitos anos, acaba resgatando Mad Max. Quando vários dos órfãos acreditam que a chegada de Max é um sinal, ele decide retornar para a cidade.",
+        "popularity": 61.59,
+        "poster_path": "/o4rv4JyeDmDKGaZgvmQxSkaCJXX.jpg",
+        "release_date": "1985-06-29",
+        "title": "Mad Max: Além da Cúpula do Trovão",
+        "video": false,
+        "vote_average": 6.202,
+        "vote_count": 2410
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7hzK0D7NGTy1MDJkWL9IQKrTmfq.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 845404,
+        "original_language": "en",
+        "original_title": "Tyler Perry's A Madea Homecoming",
+        "overview": "Madea voltou — aleluia! E ela não está com muita paciência para o drama familiar que promete tomar conta da festa de formatura de seu bisneto.",
+        "popularity": 25.384,
+        "poster_path": "/38QFDeoEk2s0tyZIhrydAS9Mvib.jpg",
+        "release_date": "2022-02-25",
+        "title": "Madea: O Retorno",
+        "video": false,
+        "vote_average": 6.879,
+        "vote_count": 95
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pCyGiGkf960FIzfgXRyxz47htVl.jpg",
+        "genre_ids": [
+            27,
+            18,
+            9648
+        ],
+        "id": 484907,
+        "original_language": "en",
+        "original_title": "Homebound",
+        "overview": "Holly está animada para finalmente conhecer os três filhos do seu noivo, Richard, no aniversário do caçula, que será comemorado na casa da ex-esposa. Apesar de estar um pouco nervosa, Holly quer causar boa impressão a todos. No entanto, quando o casal chega à casa, localizada em uma região isolada do interior da Inglaterra, as circunstâncias estão longe de ser ideais.",
+        "popularity": 58.395,
+        "poster_path": "/xx3s9HORABYz3F3ZVPtomSANpYu.jpg",
+        "release_date": "2022-04-01",
+        "title": "A Madrasta",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tQprwIKzFx83JpM5dVrGRC4UpF.jpg",
+        "genre_ids": [
+            16,
+            12,
+            14,
+            9648
+        ],
+        "id": 573730,
+        "original_language": "ja",
+        "original_title": "劇場版メイドインアビス 深き魂の黎明",
+        "overview": "Uma continuação da aventura épica do valente Riko e Reg, que se juntam a seu novo amigo Nanachi. Juntos, eles descem para a quinta camada traiçoeira do Abismo, o Mar dos Cadáveres, e encontram o misterioso Bondrewd, um lendário Apito Branco cuja sombra paira sobre o passado conturbado de Nanachi. Bondrewd é incrivelmente hospitaleiro, mas os bravos aventureiros sabem que as coisas nem sempre são como parecem no enigmático Abismo.",
+        "popularity": 21.913,
+        "poster_path": "/fsPZdpocYYbvDS2YEE1Xohqo1ni.jpg",
+        "release_date": "2020-01-17",
+        "title": "Made in Abyss: Fukaki Tamashii no Reimei",
+        "video": false,
+        "vote_average": 7.997,
+        "vote_count": 168
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4TnGcUsyd6ixuLWHaaEG5BGkAIp.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 688,
+        "original_language": "en",
+        "original_title": "The Bridges of Madison County",
+        "overview": "Após a morte de Francesca Johnson (Meryl Streep), uma proprietária rural do interior do Iowa, seus filhos descobrem, através de cartas que a mãe deixou, do forte envolvimento que ela teve com um fotógrafo (Clint Eastwood) da National Geographic, quando a família se ausentou de casa por quatro dias. Estas revelações fazem os filhos questionarem seus próprios casamentos.",
+        "popularity": 26.541,
+        "poster_path": "/ahC9ZWvPMXnQhKY8prrS1eq8Gpl.jpg",
+        "release_date": "1995-05-28",
+        "title": "As Pontes de Madison",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 1833
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5ESLsrW33Kw2c3GeLNHrG4Ef9M5.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 11017,
+        "original_language": "en",
+        "original_title": "Billy Madison",
+        "overview": "Billy é o filho irresponsável de Brian Madison, magnata de uma cadeia de hotéis. Ele tem 27 anos e só pensa em beber cerveja, ler revistas masculinas e se divertir com seus amigos tolos. O jovem espera herdar a fortuna da família, mas fica chocado ao saber que o pai determinou que ele não leva nada, a menos que conclua o segundo grau em 24 semanas. É uma missão bem difícil, já que Bill nunca passou da primeira série. Determinado a provar ao pai que é capaz, ele se matricula em uma escola.",
+        "popularity": 20.665,
+        "poster_path": "/dmMr7uoHKi6nYiPFod0Vl38XbwN.jpg",
+        "release_date": "1995-02-10",
+        "title": "Billy Madison: Um Herdeiro Bobalhão",
+        "video": false,
+        "vote_average": 6.203,
+        "vote_count": 1402
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sG4zvv1Ahl2jHxyVnwuMHOP2Clx.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 796428,
+        "original_language": "en",
+        "original_title": "Madres",
+        "overview": "À espera de seu primeiro filho, um casal mexicano-americano muda-se, na década de 1970, para uma comunidade agrícola de imigrantes na Califórnia, onde sintomas estranhos e visões aterrorizantes ameaçam sua nova família.",
+        "popularity": 14.174,
+        "poster_path": "/19pHi0qrUKvnUtwx6EoVbFNxg1E.jpg",
+        "release_date": "2021-10-08",
+        "title": "Madres: Mães de Ninguém",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 70
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9xKOVUZc0WM2Ue9zbGswDZmpz83.jpg",
+        "genre_ids": [
+            18,
+            10749,
+            35
+        ],
+        "id": 644100,
+        "original_language": "en",
+        "original_title": "As They Made Us",
+        "overview": "Abigail, a divorced mother of two, is struggling to balance the dynamics within her dysfunctional family as she attempts to cultivate new love.",
+        "popularity": 118.382,
+        "poster_path": "/qypGmqMTIT6PmDzmM3i2Aexaxug.jpg",
+        "release_date": "2022-04-08",
+        "title": "As They Made Us",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h0hgSBPF5vKOg9tSkKovljeAwre.jpg",
+        "genre_ids": [
+            10751,
+            16
+        ],
+        "id": 25472,
+        "original_language": "en",
+        "original_title": "Merry Madagascar",
+        "overview": "Merry Madagascar começa quando o Papai Noel e seu trenó inesperadamente caem na ilha, o que o deixa com amnésia. Portanto, cabe a Alex, Marty, Melman e Glória a entrega dos presentes para salvar o Natal. Merry Madagascar é o primeiro especial de Natal transmitido pela NBC no ano de 2009. Nele temos de volta os personagens do filme Madagascar e a história se passa entre o primeiro e segundo filmes.",
+        "popularity": 17.247,
+        "poster_path": "/s5nELMHR1L2agJXVIPiWxu6dWl8.jpg",
+        "release_date": "2009-11-16",
+        "title": "Feliz Natal Madagascar",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 247
+    }
+]
